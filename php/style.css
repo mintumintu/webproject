@@ -1,0 +1,62 @@
+body{
+  background-color: lightpink;
+}
+.bgimage{
+  background-image:url("bg.jpg");
+  height:100%;
+  width:100%;
+}
+.header{
+  backrond-color:rgba(255,255,255,0.5);
+}
+.header h3{
+  font-size: 40px;
+  font-family:microsoft jhenghei;
+  color:white;
+  text-align: center;
+  text-transform: uppercase;
+}
+.form{
+  margin-top:100px;
+  margin-left:38%;
+}
+table{
+  border-style:solid;
+  border-color:white;
+  border-width:thin;
+  border-radius:10px;
+  height:auto;
+  width:auto;
+}
+#header{
+  background-color:green;
+  font-size:30px;
+  font-family:monospace;
+  text-transform:uppercase;
+}
+.td1{
+    text-align:center;
+    border-radius:5px;
+    font-size:25px;
+    font-family:monospace;
+    color:white;
+}
+#name{
+
+}
+#email{
+
+}
+#pass{
+
+}
+#sub{
+
+}
+.mc{
+  height:30px;
+  width:250px;
+  font-size:20px;
+  color:red;
+  border-radius:5px;
+}
