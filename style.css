@@ -67,7 +67,7 @@ table{
 }
 .footer{
   margin-top:80px;
-  background-color:powderblue;
+  background-color:rgba(255,0,0,0.1);
 }
 .footer h2{
   text-transform:uppercase;
